@@ -3,7 +3,7 @@
 Hi there! I'm an **Aspiring Full Stack Engineer** passionate about designing and implementing innovative solutions, With expertise in building scalable and secure web and mobile applications, I thrive on solving complex challenges through technology.  
 
 ## 👩‍💻 About Me  
-- 🎓 Ex-Google Developer Student Club Lead  
+- 🎓 Google Developer Student Club Founder && Lead  
 - 👩‍💻 Women Techmakers Ambassador.  
 - 🛠️ I love contributing to open-source projects and tech communities.  
 - 💡 My goal is to build impactful, user-centric digital solutions.
