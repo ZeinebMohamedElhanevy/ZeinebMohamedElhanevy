@@ -9,7 +9,7 @@ Hi there! I'm an **Aspiring Full Stack Engineer** passionate about designing and
 - 👩‍💻 Women Techmakers Ambassador.  
 - 🛠️ I love contributing to open-source projects and tech communities.  
 - 💡 My goal is to build impactful, user-centric digital solutions.
-- 🌱 Currently sharpening my skills in Full-Stack Engenering and exploring AI technologies. 
+- 🌱 Currently sharpening my skills in Full-Stack Engineering and exploring AI technologies. 
 
 ---
 
