@@ -5,7 +5,7 @@ Hi there! I'm an **Aspiring Full Stack Engineer** passionate about designing and
 ## 👩‍💻 About Me  
 - 🎓 Master’s Degree in Computer Science Applied to Business Administration
 - 🎓 Bachelor’s Degree in Networks and Telecommunications
-- 🌟 Founder & Lead of Google Developer Student Club
+- 🌟 Founder & Lead of Google Developer Student Club at ISCAE
 - 👩‍💻 Women Techmakers Ambassador.  
 - 🛠️ I love contributing to open-source projects and tech communities.  
 - 💡 My goal is to build impactful, user-centric digital solutions.
